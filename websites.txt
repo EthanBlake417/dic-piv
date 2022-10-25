@@ -1,0 +1,5 @@
+# http://www.pivchallenge.org/pub/#b
+
+# https://openpiv.readthedocs.io/en/latest/src/piv_basics.html
+
+# https://github.com/OpenPIV/openpiv-python-examples/blob/main/notebooks/analyse_movie_thermal_plume.ipynb
